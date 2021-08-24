@@ -1,5 +1,19 @@
 module.exports = {
   plugins: [
+    {
+      resolve: `gatsby-plugin-facebook-customer-chat`,
+      options: {
+        sdk: {
+          xfbml            : true,
+          version          : 'v10.0'
+        },
+        chat: {
+          pageId: '103087394424037',
+          loggedInGreeting: 'Hi. If you have any questions, we are ready to help you',
+          loggedOutGreeting: 'Thanks, have a good day.',
+        }
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-theme-codebushi`,

@@ -22,6 +22,7 @@ const Index = () => (
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Out staff ReactJs devs for long term projects
+            Please checkout our web site <a href={"https://aleannlab.com"}>aleannlab.com</a>
           </p>
         </div>
         <div className="lg:w-1/2">
