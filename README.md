@@ -1,25 +1,30 @@
-# Gatsby Lander
 
-This is an experimental starter built using [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi), a theme which uses [Tailwind CSS](https://tailwindcss.com/).
+### Hi there, I'm Alex 👋
 
-Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+I'm CEO of development agency [AleannLab](https://aleannlab.com), Ukraine, city Poltava.
+I'm looking Looking forward to utilizing my Web Development in a Dynamic Environment. Proficient at web application/mobile development that we provide.🧑🏻
 
-## Preview
 
-https://gatsby-lander.surge.sh/
+### Our stacks
 
-## Installation
+```Bug Hunter
+{
+  "front end developmment" : ["ReactJS", "React", "javascript", "jquery", "bootstrap", "css", "html", "wp", "wordpress"],
+  "libs": ["Rxjs", "Redux", "saga", "graphql", "restapi", "django rest api", "drf"],
+  "databas": ["mongodb", "kafka", "postgresql", "mysql", "sqlite", "redis"],
+  "mobile development: ["react native"],
+  "backend development"  : ["Nestjs", "Django", "flask", "python", "node js", "nodeJs", "express", "graphql", "restApi"],
+  "integrations": ["Zoho CRM", "Zendesk", "monday"], 
+  "testing": ["jest", "selenium"],
+  "knowledgeable in security vulnerabilities" : ["XSS", "CSRF", "RCE", "JWT", "IDOR"],
+  "scripts": ["spreadsheet automatisation", "auto posting" ]
+}
+```
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-lander https://github.com/codebushi/gatsby-starter-lander`
+- 🌱 Ready to help you with your business ideas
 
-Run `gatsby develop` in the terminal to start the dev site.
+Contact us for more information:
+<sales@aleannlab.com>
 
-## Notes
-
-These libraries do not yet fully support the upgrade to Gatsby 3.x:
-* gatsby-plugin-react-helmet
-* gatsby-plugin-emotion
-* gatsby-plugin-postcss
-* gatsby-theme-codebushi
+<div style="text-align:center; height:100px; weight: 100px" width="100"><img src="https://aleannlab.com/wp-content/themes/aleannlab_new/assets/img/aleanlab-logo-white.svg" /></div>.
+web development, development, python developers Ukraine, react developers, reactJs development, react native development.
