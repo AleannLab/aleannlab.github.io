@@ -1,0 +1,2 @@
+(self.webpackChunkaleannlab=self.webpackChunkaleannlab||[]).push([[883],{9616:function(n,t,u){"use strict";u.r(t);u(7294);var a=u(2813),l=u(8100);t.default=function(){return(0,l.tZ)(a.Z,null,(0,l.tZ)("h1",null,"Not Found"),(0,l.tZ)("p",null,"You just hit a page that doesn't exist..."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-e5526c15d00bf32ce8fb.js.map
