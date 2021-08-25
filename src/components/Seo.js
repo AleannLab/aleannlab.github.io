@@ -4,6 +4,7 @@ import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby";
 import favicon from '../images/favicon-512-150x150.png'
+import snape from '../images/snape.jpg'
 
 
 const Seo = ({ title, description, image, article }) => {

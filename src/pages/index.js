@@ -18,11 +18,11 @@ const Index = () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            ReactJs, React Native, NestJs, NextJs, Gatsby, NodeJs Development
+            ReactJs, React Native, NestJs, NextJs, Gatsby, NodeJs Development from AleanLab 
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Out staff ReactJs devs for long term projects
-            Please checkout our web site <a href={"https://aleannlab.com"}>aleannlab.com</a>
+            AleanLab works on Out staff basis provides ReactJs devs for long term projects
+            Please checkout our web site <a href={"https://aleannlab.com"}>Aleann Lab</a>
           </p>
         </div>
         <div className="lg:w-1/2">
@@ -65,10 +65,9 @@ const Index = () => (
       id="services"
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
-          <h3 className="text-3xl font-semibold leading-tight">Market Analysis</h3>
+          <h3 className="text-3xl font-semibold leading-tight">Google sheet Zoho integartion</h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Our team of enthusiastic marketers will analyse and evaluate how your company stacks
-            against the closest competitors
+            Our AleanLab team of enthusiastic developers able to integration your ZOHO CRM with Google sheet, and make your life easier  
           </p>
         </div>
       }
@@ -79,11 +78,11 @@ const Index = () => (
       primarySlot={
         <div className="lg:pl-32 xl:pl-48">
           <h3 className="text-3xl font-semibold leading-tight">
-            Design And Plan Your Business Growth Steps
+            Mobile development/PWA
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Once the market analysis process is completed our staff will search for opportunities
-            that are in reach
+            You want to be on touch with your clients and able to send them quick notification and updates - mobile app is the best
+              way to do that.
           </p>
         </div>
       }
@@ -93,11 +92,10 @@ const Index = () => (
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
           <h3 className="text-3xl font-semibold leading-tight">
-            Search For Performance Optimization
+            Complext aplication
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            With all the information in place you will be presented with an action plan that your
-            company needs to follow
+            Custom CRM for you bussines
           </p>
         </div>
       }
