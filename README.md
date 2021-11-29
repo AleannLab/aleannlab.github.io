@@ -2,8 +2,7 @@
 ### Hi there, I'm Alex 👋
 
 I'm CEO of development agency [AleannLab](https://aleannlab.com), Ukraine, city Poltava. 
-I'm looking Looking forward to utilizing my Web Development in a Dynamic Environment. Proficient at web application/mobile development that we provide.🧑🏻
-
+I'm looking forward to utilizing our Web Development expertise in a Dynamic Environment. Proficient at web application/mobile development that we provide.🧑🏻
 
 ### Our stacks
 
