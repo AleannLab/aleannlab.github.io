@@ -11,7 +11,7 @@ I'm looking Looking forward to utilizing my Web Development in a Dynamic Environ
 {
   "front end developmment" : ["ReactJS", "React", "javascript", "jquery", "bootstrap", "css", "html", "wp", "wordpress"],
   "libs": ["Rxjs", "Redux", "saga", "graphql", "restapi", "django rest api", "drf"],
-  "databas": ["mongodb", "kafka", "postgresql", "mysql", "sqlite", "redis"],
+  "databases": ["mongodb", "kafka", "postgresql", "mysql", "sqlite", "redis"],
   "mobile development: ["react native"],
   "backend development"  : ["Nestjs", "Django", "flask", "python", "node js", "nodeJs", "express", "graphql", "restApi"],
   "integrations": ["Zoho CRM", "Zendesk", "monday"], 
