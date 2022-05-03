@@ -11,7 +11,7 @@ I'm looking forward to utilizing our Web Development expertise in a Dynamic Envi
   "front end developmment" : ["ReactJS", "React", "javascript", "jquery", "bootstrap", "css", "html", "wp", "wordpress"],
   "libs": ["Rxjs", "Redux", "saga", "graphql", "restapi", "django rest api", "drf"],
   "databases": ["mongodb", "kafka", "postgresql", "mysql", "sqlite", "redis"],
-  "mobile development: ["react native"],
+  "mobile development": ["react native"],
   "backend development"  : ["Nestjs", "Django", "flask", "python", "node js", "nodeJs", "express", "graphql", "restApi"],
   "integrations": ["Zoho CRM", "Zendesk", "monday"], 
   "testing": ["jest", "selenium"],
